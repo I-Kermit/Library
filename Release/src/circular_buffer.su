@@ -1,0 +1,3 @@
+circular_buffer.c:19:6:initialise_circular_buffer	16	static
+circular_buffer.c:36:10:put_circular_buffer	8	static
+circular_buffer.c:58:10:get_circular_buffer	8	static

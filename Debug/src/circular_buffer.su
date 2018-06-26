@@ -1,0 +1,5 @@
+circular_buffer.c:19:6:initialise_circular_buffer	32	static
+circular_buffer.c:36:10:put_circular_buffer	24	static
+circular_buffer.c:58:10:get_circular_buffer	24	static
+circular_buffer.c:82:17:is_full	24	static
+circular_buffer.c:94:17:is_empty	24	static
